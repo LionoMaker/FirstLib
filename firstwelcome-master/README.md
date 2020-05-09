@@ -10,7 +10,7 @@ your cargo.toml file should look like this:
 [package]
 name = "hello_world"
 version = "0.1.0"
-authors = ["imran82ali <code.imranali@gmail.com>"]
+authors = ["LionoMaker <hafizarslan339@gmail.com>"]
 edition = "2018"
 
 [dependencies]
